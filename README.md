@@ -1,4 +1,4 @@
-### 概要
+## 概要
 
 MUI v7 のサンプルです。
 
@@ -17,20 +17,23 @@ MUI v7 のサンプルです。
 - **その他:**
   - レスポンシブ, ダークモード
 
-webm
+[mui-v7-sample-demo.webm](https://github.com/user-attachments/assets/93a7b59e-9933-4652-a8d7-6c86e8ba4a00)
 
 ## レンダリング
 
 ### PC
 
-#### ログインページ
-
-#### トップページ
-
-#### ユーザー一覧ページ
-
-#### 設定ページ
-
-#### ログアウト
+<img width="3285" height="1392" alt="01_login" src="https://github.com/user-attachments/assets/f7a70d81-127b-467c-94b4-f8a6c7dcaaf1" />
+<img width="3285" height="1392" alt="02_home" src="https://github.com/user-attachments/assets/231f8ebd-3f55-4339-8f04-aac1c34629ce" />
+<img width="3285" height="1392" alt="03_users" src="https://github.com/user-attachments/assets/43cc414a-4aa9-4d5e-9154-1707811d9732" />
+<img width="3285" height="1392" alt="04_user-modal" src="https://github.com/user-attachments/assets/215ba0dc-dd7c-4724-859e-aec097b64e74" />
+<img width="3285" height="1392" alt="05_settings" src="https://github.com/user-attachments/assets/cdc7c15b-ea28-4684-ab1b-c452d2c3f1b9" />
 
 ### SP
+
+<img width="800" alt="01_login" src="https://github.com/user-attachments/assets/d550264c-6984-456f-b1ff-25bf379927d1" />
+<img width="800" alt="02_home" src="https://github.com/user-attachments/assets/2247112d-79f3-457c-90d8-ae95e3ec1721" />
+<img width="800" alt="03_drawer-menu" src="https://github.com/user-attachments/assets/e5405683-6251-4ce3-a5a4-bc1ff10e27fd" />
+<img width="800" alt="04_users" src="https://github.com/user-attachments/assets/83512568-8852-4431-8cd7-bccfb1136575" />
+<img width="800" alt="05_user-modal" src="https://github.com/user-attachments/assets/d17417f4-c9b7-46ad-a1b0-105e3b61b36d" />
+<img width="600" alt="06_settings" src="https://github.com/user-attachments/assets/9c2765a2-167d-48d1-a7d5-1938150824dd" />
