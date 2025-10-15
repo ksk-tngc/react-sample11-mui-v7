@@ -1,5 +1,5 @@
 概要
-================================
+------------------------------
 
 MUI v7 のサンプルです。
 
@@ -21,7 +21,7 @@ MUI v7 のサンプルです。
 [mui-v7-sample-demo.webm](https://github.com/user-attachments/assets/93a7b59e-9933-4652-a8d7-6c86e8ba4a00)
 
 レンダリング
-================================
+------------------------------
 
 ### PC
 
@@ -41,7 +41,7 @@ MUI v7 のサンプルです。
 <img width="640" alt="06_settings" src="https://github.com/user-attachments/assets/9c2765a2-167d-48d1-a7d5-1938150824dd" />
 
 フォルダ構成
-================================
+------------------------------
 
 `tree -C --dirsfirst --noreport src`
 
